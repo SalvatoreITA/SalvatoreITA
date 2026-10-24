@@ -1,47 +1,34 @@
-<h1 align="center">Ciao, sono Salvatore 👋</h1>
-<p align="center">
-  <em>Progetti smart home, elettronica e automazione per Home Assistant — Marchiati <b>DomHouse.it</b></em>
-</p>
-<p align="center">
-  <a href="https://domhouse.it">🌐 domhouse.it</a>
-</p>
+# Ciao, sono Salvatore Lentini 👋
 
----
+Benvenuti nel mio profilo GitHub. Sono il fondatore e unico sviluppatore dietro **DomHouse.it**. 
+Progetto e scrivo personalmente integrazioni custom, frontend cards per Home Assistant.
 
-### 🏠 Progetti in evidenza
+## 🖥️ Elenco Progetti:
 
-# 🏠 DomHouse — Progetti per Home Assistant
+| Repository | Descrizione |
+|:---|:---|
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
+| [Centro Controllo Dispositivi Offline](https://github.com/SalvatoreITA/Centro-Dispositivi-Offline-Card) | Custom Component per Home Assistant che ti permette di monitorare in tempo reale lo stato di connessione dei tuoi dispositivi (luci, prese, sensori, tapparelle, ecc.) |
+| [Animated Card](https://github.com/SalvatoreITA/DomHouse-Animated-Card) | Una card animata elegante per Home Assistant che mostra Data, Ora e un carosello di sensori |
+| [Octopus Tariffe](https://github.com/SalvatoreITA/DomHouse-Octopus-Card) | Custom Card dinamica ed elegante per Home Assistant, progettata per visualizzare e confrontare le tariffe di Octopus Energy Italia compresa di Blueprint per essere notificati quando c'è un offe… |
+| [Octopus EnergyBreak](https://github.com/SalvatoreITA/DomHouse-Octopus-EnergyBreak-Card) | Una Custom Card dal design premium per monitorare in tempo reale le tue sfide Octopus Energy Break su Home Assistant. |
+| [Octopus PowerUP](https://github.com/SalvatoreITA/DomHouse-Octopus-PowerUp-Card) | Una Custom Card dal design premium per monitorare in tempo reale le tue sfide **Octopus PowerUp** su Home Assistant. |
 
-Raccolta di card Lovelace, integrazioni, firmware ed esperimenti a marchio
-**DomHouse**. Sito: [domhouse.it](https://domhouse.it)
 
-> ℹ️ **Come installare via HACS**
-> HACS → ⋮ → *Custom repositories* → incolla l'URL della repo e scegli la
-> categoria giusta (*Dashboard* per le card, *Integration* per i component).
 
----
 
-## 🎨 Card Lovelace
-| Progetto | Descrizione | Versione | ⭐ |
-|---|---|---|---|
-| [domhouse-animated-card](https://github.com/SalvatoreITA/domhouse-animated-card) | Orologio animato + sensori a scorrimento | ![](https://img.shields.io/github/v/release/SalvatoreITA/domhouse-animated-card?label=) | ![](https://img.shields.io/github/stars/SalvatoreITA/domhouse-animated-card?label=&style=flat) |
-| [domhouse-energy-horseshoe-card](https://github.com/SalvatoreITA/domhouse-energy-horseshoe-card) | Gauge ferro di cavallo fotovoltaico | ![](https://img.shields.io/github/v/release/SalvatoreITA/domhouse-energy-horseshoe-card?label=) | ![](https://img.shields.io/github/stars/SalvatoreITA/domhouse-energy-horseshoe-card?label=&style=flat) |
-| [domhouse-solar-autoconsumption-card](https://github.com/SalvatoreITA/domhouse-solar-autoconsumption-card) | % autoconsumo solare/batteria | ![](https://img.shields.io/github/v/release/SalvatoreITA/domhouse-solar-autoconsumption-card?label=) | ![](https://img.shields.io/github/stars/SalvatoreITA/domhouse-solar-autoconsumption-card?label=&style=flat) |
-| [domhouse-printer-card](https://github.com/SalvatoreITA/domhouse-printer-card) | Monitor stampante e toner | ![](https://img.shields.io/github/v/release/SalvatoreITA/domhouse-printer-card?label=) | ![](https://img.shields.io/github/stars/SalvatoreITA/domhouse-printer-card?label=&style=flat) |
 
-## 🔌 Integrazioni / Custom Component
-| Progetto | Descrizione | Versione | ⭐ |
-|---|---|---|---|
-| <!-- es. centro-controllo-batterie --> | Monitoraggio batterie | | |
-| <!-- es. centro-controllo-elettrodomestici --> | Monitoraggio elettrodomestici | | |
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
 
-## 📟 Firmware ESP (ESPHome / Arduino)
-| Progetto | Descrizione | Versione | ⭐ |
-|---|---|---|---|
-| <!-- es. tigoserver --> | Firmware universale ESP32 | | |
-| <!-- ... --> | | | |
 
-## 🎨 Temi
-| Progetto | Descrizione |
-|---|---|
-| [domhouse-theme](https://github.com/SalvatoreITA/domhouse-theme) | Tema Home Assistant |
+
+
+
+| **domhouse-solar-autoconsumption-card** | Interfaccia UI dedicata al fotovoltaico per visualizzare i flussi di autoconsumo in tempo reale. |
+| **domhouse-printer-card** | Card Lovelace per la visualizzazione immediata della telemetria e dei livelli di inchiostro della stampante. |
+| **domhouse-weather-card** | Scheda meteo personalizzata e ottimizzata per integrarsi nel design di Home Assistant. |
+| **[Nome-Repo-Card-Offline]** | Interfaccia grafica creata appositamente per affiancare il sensore di monitoraggio dei dispositivi offline. |
+
