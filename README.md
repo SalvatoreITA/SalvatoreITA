@@ -1,4 +1,4 @@
-# Ciao, sono Salvatore Lentini 👋
+# Ciao a tutti! 👋
 
 Benvenuti nel mio profilo GitHub. Sono il fondatore e unico sviluppatore dietro **DomHouse.it**. 
 Progetto e scrivo personalmente integrazioni custom, frontend cards per Home Assistant.
@@ -12,7 +12,7 @@ Ogni piccolo supporto fa un'enorme differenza: mi aiuta a mantenere vivo l'entus
 
 | Repository | Descrizione |
 |:---|:---|
-| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
+| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Monitora lo Stato, consumi, costo e quota di energia pulita di ogni elettrdomestico, con una presa smart.|
 | [Centro Controllo Dispositivi Offline](https://github.com/SalvatoreITA/Centro-Dispositivi-Offline-Card) | Custom Component per Home Assistant che ti permette di monitorare in tempo reale lo stato di connessione dei tuoi dispositivi (luci, prese, sensori, tapparelle, ecc.) |
 | [Animated Card](https://github.com/SalvatoreITA/DomHouse-Animated-Card) | Una card animata elegante per Home Assistant che mostra Data, Ora e un carosello di sensori |
 | [Octopus Tariffe](https://github.com/SalvatoreITA/DomHouse-Octopus-Card) | Custom Card dinamica ed elegante per Home Assistant, progettata per visualizzare e confrontare le tariffe di Octopus Energy Italia compresa di Blueprint per essere notificati quando c'è un offe… |
