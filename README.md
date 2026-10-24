@@ -3,7 +3,12 @@
 Benvenuti nel mio profilo GitHub. Sono il fondatore e unico sviluppatore dietro **DomHouse.it**. 
 Progetto e scrivo personalmente integrazioni custom, frontend cards per Home Assistant.
 
-## 🖥️ Elenco Progetti:
+## ☕ Supporta il Progetto
+Ogni piccolo supporto fa un'enorme differenza: mi aiuta a mantenere vivo l'entusiasmo e mi stimola a creare e condividere nuove soluzioni per la community. Grazie di cuore per il tuo aiuto! 🚀
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/salvatore_dh)
+
+## 🖥️ Custom Component & Card:
 
 | Repository | Descrizione |
 |:---|:---|
@@ -19,5 +24,10 @@ Progetto e scrivo personalmente integrazioni custom, frontend cards per Home Ass
 | [Frigate Telegram Notify](https://github.com/SalvatoreITA/Frigate-Telegram-Notify) | Blueprint per inviare notifiche Telegram (foto e video) da Frigate.|
 | [Ollama Jarvis Pro](https://github.com/SalvatoreITA/Ollama-Jarvis-Pro) | Client Ollama per Home Assistant |
 | [Telegram Custom Notify](https://github.com/SalvatoreITA/Telegram-Custom) | Componente personalizzato per Home Assistant permette di continuare a utilizzare la classica piattaforma notify per Telegram, risolvendo definitivamente l'avviso di "Deprecazione / Servizio Notify non supportato" (per tutte le istanze di Home Assistant superiori alla 05.2026). |
-| [Telegram Custom Bot](https://github.com/SalvatoreITA/Telegram-Custom-Bot) | Una versione personalizzata dell'integrazione standard Telegram Bot di Home Assistant, corretta per funzionare con Home Assistant 2026.2 (Core) e successivi, che utilizzano Python 3.13.
-E' consigliato usare questo componente insieme a Telegram Custom Notify |
+| [Telegram Custom Bot](https://github.com/SalvatoreITA/Telegram-Custom-Bot) | Una versione personalizzata dell'integrazione standard Telegram Bot di Home Assistant, corretta per funzionare con Home Assistant 2026.2 (Core) e successivi, che utilizzano Python 3.13. E' consigliato usare questo componente insieme a Telegram Custom Notify |
+
+## 📟 Progetti - Hardware - Firmware:
+
+| Repository | Descrizione |
+|:---|:---|
+| [Jarvis Pro - Firmware Precompilato](https://github.com/SalvatoreITA/Jarvis-Pro-Satellite) | Jarvis Pro è un firmware personalizzato per ESP32-S3 che trasforma il tuo dispositivo in un satellite vocale avanzato per Home Assistant. |
