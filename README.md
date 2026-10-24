@@ -13,22 +13,11 @@ Progetto e scrivo personalmente integrazioni custom, frontend cards per Home Ass
 | [Octopus Tariffe](https://github.com/SalvatoreITA/DomHouse-Octopus-Card) | Custom Card dinamica ed elegante per Home Assistant, progettata per visualizzare e confrontare le tariffe di Octopus Energy Italia compresa di Blueprint per essere notificati quando c'è un offe… |
 | [Octopus EnergyBreak](https://github.com/SalvatoreITA/DomHouse-Octopus-EnergyBreak-Card) | Una Custom Card dal design premium per monitorare in tempo reale le tue sfide Octopus Energy Break su Home Assistant. |
 | [Octopus PowerUP](https://github.com/SalvatoreITA/DomHouse-Octopus-PowerUp-Card) | Una Custom Card dal design premium per monitorare in tempo reale le tue sfide **Octopus PowerUp** su Home Assistant. |
-
-
-
-
-
-| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
-| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
-| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
-| [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Gestisci i tuoi disposivi |
-
-
-
-
-
-| **domhouse-solar-autoconsumption-card** | Interfaccia UI dedicata al fotovoltaico per visualizzare i flussi di autoconsumo in tempo reale. |
-| **domhouse-printer-card** | Card Lovelace per la visualizzazione immediata della telemetria e dei livelli di inchiostro della stampante. |
-| **domhouse-weather-card** | Scheda meteo personalizzata e ottimizzata per integrarsi nel design di Home Assistant. |
-| **[Nome-Repo-Card-Offline]** | Interfaccia grafica creata appositamente per affiancare il sensore di monitoraggio dei dispositivi offline. |
-
+| [Printer Card](https://github.com/SalvatoreITA/DomHouse-Printer-Card) | Card Lovelace per la visualizzazione immediata della telemetria e dei livelli di inchiostro della stampante. |
+| [Solar Autoconsumption Card ](https://github.com/SalvatoreITA/Domhouse-Solar-Autoconsumption-Card) | Cad Lovelace che calcola e visualizza automaticamente la percentuale di autoconsumo solare. |
+| [Weather Card](https://github.com/SalvatoreITA/DomHouse-Weather-Card) | Una card meteo **"All-in-One"** per Home Assistant Lovelace.|
+| [Frigate Telegram Notify](https://github.com/SalvatoreITA/Frigate-Telegram-Notify) | Blueprint per inviare notifiche Telegram (foto e video) da Frigate.|
+| [Ollama Jarvis Pro](https://github.com/SalvatoreITA/Ollama-Jarvis-Pro) | Client Ollama per Home Assistant |
+| [Telegram Custom Notify](https://github.com/SalvatoreITA/Telegram-Custom) | Componente personalizzato per Home Assistant permette di continuare a utilizzare la classica piattaforma notify per Telegram, risolvendo definitivamente l'avviso di "Deprecazione / Servizio Notify non supportato" (per tutte le istanze di Home Assistant superiori alla 05.2026). |
+| [Telegram Custom Bot](https://github.com/SalvatoreITA/Telegram-Custom-Bot) | Una versione personalizzata dell'integrazione standard Telegram Bot di Home Assistant, corretta per funzionare con Home Assistant 2026.2 (Core) e successivi, che utilizzano Python 3.13.
+E' consigliato usare questo componente insieme a Telegram Custom Notify |
