@@ -12,6 +12,7 @@ Ogni piccolo supporto fa un'enorme differenza: mi aiuta a mantenere vivo l'entus
 
 | Repository | Descrizione |
 |:---|:---|
+| [DomHouse Sense](https://github.com/SalvatoreITA/DomHouse-Sense) | Rete collaborativa di monitoraggio sismico e meteo-ambientale per la community e per Home Assistant.|
 | [Centro Controllo Elettrodomestici](https://github.com/SalvatoreITA/Centro-Controllo-Elettrodomestici-Card) | Monitora lo Stato, consumi, costo e quota di energia pulita di ogni elettrdomestico, con una presa smart.|
 | [Emulated Hue Custom](https://github.com/SalvatoreITA/Emulated-Hue) | Implementazione personalizzata del componente Emulated Hue per Home Assistant, arricchita con il supporto al mapping manuale del hue_type.|
 | [Centro Controllo Dispositivi Offline](https://github.com/SalvatoreITA/Centro-Dispositivi-Offline-Card) | Custom Component per Home Assistant che ti permette di monitorare in tempo reale lo stato di connessione dei tuoi dispositivi (luci, prese, sensori, tapparelle, ecc.) |
